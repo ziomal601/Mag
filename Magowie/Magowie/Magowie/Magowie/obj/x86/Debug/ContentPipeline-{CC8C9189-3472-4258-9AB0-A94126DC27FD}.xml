@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\corv.fbx</Source>
+      <Name>Models\corv</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb</Output>
+      <Time>2012-12-06T16:18:32+01:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\corv_0.xml</Key>
+        <Value>2014-05-04T13:56:51.8349395+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb</Request>
+      <Request>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb</Request>
+      <Request>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiWalkInit.FBX</Source>
+      <Name>Models\ArsaMagiWalkInit</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkInit.xnb</Output>
+      <Time>2014-04-07T21:31:56+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ArsaMagiWalkInit_0.xml</Key>
+        <Value>2014-05-04T13:56:55.5521466+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiWalkLoop.FBX</Source>
+      <Name>Models\ArsaMagiWalkLoop</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkLoop.xnb</Output>
+      <Time>2014-04-07T21:31:56+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ArsaMagiWalkLoop_0.xml</Key>
+        <Value>2014-05-04T13:56:55.8921718+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Room-Fountain-raw-v2.FBX</Source>
+      <Name>Models\Room-Fountain-raw-v2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Room-Fountain-raw-v2.xnb</Output>
+      <Time>2014-04-08T11:47:14+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Room-Fountain-raw-v2_0.xml</Key>
+        <Value>2014-05-04T13:56:55.9771699+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\baseballbat.fbx</Source>
+      <Name>Models\baseballbat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\baseballbat.xnb</Output>
+      <Time>2010-09-20T13:53:06+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\baseballbat_0.xml</Key>
+        <Value>2014-05-04T13:56:56.1711815+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\dude.fbx</Source>
+      <Name>Models\dude</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\dude.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\dude_0.xml</Key>
+        <Value>2014-05-04T13:56:59.1873549+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\head_0.xnb</Request>
+      <Request>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\jacket_0.xnb</Request>
+      <Request>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\pants_0.xnb</Request>
+      <Request>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\upBodyC_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiAlpha(Resampled).FBX</Source>
+      <Name>Models\ArsaMagiAlpha(Resampled)</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha(Resampled).xnb</Output>
+      <Time>2014-04-14T19:27:02+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ArsaMagiAlpha(Resampled)_0.xml</Key>
+        <Value>2014-05-04T13:57:02.7345595+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiAlpha.FBX</Source>
+      <Name>Models\ArsaMagiAlpha</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha.xnb</Output>
+      <Time>2014-04-14T19:26:52+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ArsaMagiAlpha_0.xml</Key>
+        <Value>2014-05-04T13:57:04.7586825+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Room-Fountain-raw-v3-texture.FBX</Source>
+      <Name>Models\Room-Fountain-raw-v3-texture</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Room-Fountain-raw-v3-texture.xnb</Output>
+      <Time>2014-04-15T11:38:44.160291+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Room-Fountain-raw-v3-texture_0.xml</Key>
+        <Value>2014-05-04T13:57:04.8966848+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ManFish basic model with UVMap.FBX</Source>
+      <Name>Models\ManFish basic model with UVMap</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ManFish basic model with UVMap.xnb</Output>
+      <Time>2014-04-16T20:44:17+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ManFish basic model with UVMap_0.xml</Key>
+        <Value>2014-05-04T13:57:11.0860471+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Fountain.FBX</Source>
+      <Name>Models\Fountain</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Fountain.xnb</Output>
+      <Time>2014-05-04T12:53:53.1963768+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Fountain_0.xml</Key>
+        <Value>2014-05-04T13:57:11.1600514+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Room.FBX</Source>
+      <Name>Models\Room</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Room.xnb</Output>
+      <Time>2014-05-04T12:53:53.2023768+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Room_0.xml</Key>
+        <Value>2014-05-04T13:57:11.2150543+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Zywoplot-krzywy.FBX</Source>
+      <Name>Models\Zywoplot-krzywy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Zywoplot-krzywy.xnb</Output>
+      <Time>2014-05-04T12:53:53.2153768+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Zywoplot-krzywy_0.xml</Key>
+        <Value>2014-05-04T13:57:11.276053+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Zywoplot.FBX</Source>
+      <Name>Models\Zywoplot</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Zywoplot.xnb</Output>
+      <Time>2014-05-04T12:53:53.2093768+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Zywoplot_0.xml</Key>
+        <Value>2014-05-04T13:57:11.3330558+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\corv.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\corv_0.xml</Output>
+      <Time>2012-12-06T16:18:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Corvo_Body_d.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb</Output>
+      <Time>2012-10-14T08:02:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Corvo_Hair_d.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb</Output>
+      <Time>2012-10-14T08:02:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Corvo_Head_d.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb</Output>
+      <Time>2012-10-14T08:03:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiWalkInit.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ArsaMagiWalkInit_0.xml</Output>
+      <Time>2014-04-07T21:31:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiWalkLoop.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ArsaMagiWalkLoop_0.xml</Output>
+      <Time>2014-04-07T21:31:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Room-Fountain-raw-v2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Room-Fountain-raw-v2_0.xml</Output>
+      <Time>2014-04-08T11:47:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\baseballbat.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\baseballbat_0.xml</Output>
+      <Time>2010-09-20T13:53:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\dude.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\dude_0.xml</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\head.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\head_0.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\jacket.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\jacket_0.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pants.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\pants_0.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\upBodyC.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\upBodyC_0.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiAlpha(Resampled).FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ArsaMagiAlpha(Resampled)_0.xml</Output>
+      <Time>2014-04-14T19:27:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiAlpha.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ArsaMagiAlpha_0.xml</Output>
+      <Time>2014-04-14T19:26:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Room-Fountain-raw-v3-texture.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Room-Fountain-raw-v3-texture_0.xml</Output>
+      <Time>2014-04-15T11:38:44.160291+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Texture_0.xnb</Output>
+      <Time>2014-04-15T11:32:29.825909+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ManFish basic model with UVMap.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\ManFish basic model with UVMap_0.xml</Output>
+      <Time>2014-04-16T20:44:17+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Fountain.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Fountain_0.xml</Output>
+      <Time>2014-05-04T12:53:53.1963768+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Room.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Room_0.xml</Output>
+      <Time>2014-05-04T12:53:53.2023768+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Zywoplot-krzywy.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Zywoplot-krzywy_0.xml</Output>
+      <Time>2014-05-04T12:53:53.2153768+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Zywoplot.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Models\Zywoplot_0.xml</Output>
+      <Time>2014-05-04T12:53:53.2093768+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{CC8C9189-3472-4258-9AB0-A94126DC27FD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\MagowieContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\ZombieAddict\Desktop\test\Magowie\Magowie\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2014-05-04T12:40:01.1263768+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-13T16:08:36.7899797+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,11 @@
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Models\sampleModel.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Models\sampleModelTextured.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture2.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture2_0.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture_0.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Magowie.exe
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Magowie.pdb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Release\Magowie.exe
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Release\Magowie.pdb

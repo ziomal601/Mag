@@ -1,0 +1,32 @@
+Content\Models\corv.xnb
+Content\Models\ArsaMagiWalkInit.xnb
+Content\Models\ArsaMagiWalkLoop.xnb
+Content\Models\Room-Fountain-raw-v2.xnb
+Content\Models\baseballbat.xnb
+Content\Models\dude.xnb
+Content\Models\ArsaMagiAlpha(Resampled).xnb
+Content\Models\ArsaMagiAlpha.xnb
+Content\Models\Room-Fountain-raw-v3-texture.xnb
+Content\Models\ManFish basic model with UVMap.xnb
+Content\Models\ArsaMagiExport.xnb
+Content\Models\column.xnb
+Content\Models\Export006.xnb
+Content\Models\Door.xnb
+Content\Models\DasRyba.xnb
+Content\Models\DasRyba1.xnb
+Content\Models\Fountain.xnb
+Content\Models\Room.xnb
+Content\Models\Zywoplot.xnb
+Content\Models\Corvo_Body_d_0.xnb
+Content\Models\Corvo_Hair_d_0.xnb
+Content\Models\Corvo_Head_d_0.xnb
+Content\Models\head_0.xnb
+Content\Models\jacket_0.xnb
+Content\Models\pants_0.xnb
+Content\Models\upBodyC_0.xnb
+Content\Models\Texture_0.xnb
+Content\Models\Door-texture_0.xnb
+Content\Models\ManFiah UVMap1_0.xnb
+Content\Models\Fountain-texture_0.xnb
+Content\Models\Room-texture_0.xnb
+Content\Models\Zywoplot-texture_0.xnb

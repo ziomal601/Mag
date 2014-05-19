@@ -1,0 +1,52 @@
+D:\Pobrane\Magowie(1)\Magowie\WindowsGameLibrary1\bin\x86\Debug\WindowsGameLibrary1.dll
+D:\Pobrane\Magowie(1)\Magowie\WindowsGameLibrary1\bin\x86\Debug\WindowsGameLibrary1.pdb
+D:\Pobrane\Magowie(1)\Magowie\WindowsGameLibrary1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Pobrane\Magowie(1)\Magowie\WindowsGameLibrary1\obj\x86\Debug\WindowsGameLibrary1.dll
+D:\Pobrane\Magowie(1)\Magowie\WindowsGameLibrary1\obj\x86\Debug\WindowsGameLibrary1.pdb
+D:\Pobrane\Magowie(1)\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.dll
+D:\Pobrane\Magowie(1)\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.pdb
+D:\Pobrane\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Pobrane\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.dll
+D:\Pobrane\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\SkinnedModel.csprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\SkinnedModel.csprojResolveAssemblyReference.cache
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\SkinnedModel\obj\x86\Debug\SkinnedModel.csprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.pdb
+D:\Pobrane\Magowie\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.dll
+D:\Pobrane\Magowie\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.pdb
+D:\Pobrane\Magowie\Magowie\SkinnedModel\obj\x86\Debug\SkinnedModel.csprojResolveAssemblyReference.cache
+D:\Pobrane\Magowie\Magowie\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Pobrane\Magowie\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.dll
+D:\Pobrane\Magowie\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\Magowie\SkinnedModel\obj\x86\Debug\SkinnedModel.csprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\Magowie\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Rozpierdalator\Desktop\Nowy folder (7)\Magowie\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.pdb
+G:\Gry\Magowie(1)\Magowie\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.dll
+G:\Gry\Magowie(1)\Magowie\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.pdb
+G:\Gry\Magowie(1)\Magowie\Magowie\SkinnedModel\obj\x86\Debug\SkinnedModel.csprojResolveAssemblyReference.cache
+G:\Gry\Magowie(1)\Magowie\Magowie\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Gry\Magowie(1)\Magowie\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.dll
+G:\Gry\Magowie(1)\Magowie\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Tomek\Desktop\m\m\m\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Tomek\Desktop\m\m\m\Magowie\SkinnedModel\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Tomek\Desktop\m\m\m\Magowie\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tomek\Desktop\m\m\m\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Tomek\Desktop\m\m\m\Magowie\SkinnedModel\obj\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Tomek\Desktop\m\m\m\Magowie\SkinnedModel\obj\x86\Debug\SkinnedModel.csprojResolveAssemblyReference.cache

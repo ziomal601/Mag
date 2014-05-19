@@ -1,0 +1,168 @@
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+D:\Projekty XNA\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+D:\Projekty XNA\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projekty XNA\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+D:\Projekty XNA\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Ship.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Ship.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkLoop.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkInit.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkInit.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkLoop.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Room-Fountain-raw-v2.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\baseballbat.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\dude.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\head_0.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\jacket_0.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\pants_0.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\upBodyC_0.xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\WindowsGameLibrary1.dll
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\WindowsGameLibrary1.pdb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha(Resampled).xnb
+D:\Pobrane\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkInit.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkLoop.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Room-Fountain-raw-v2.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\baseballbat.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\dude.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha(Resampled).xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\head_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\jacket_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\pants_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\upBodyC_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (2)\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkInit.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkLoop.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Room-Fountain-raw-v2.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\baseballbat.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\dude.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha(Resampled).xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\head_0.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\jacket_0.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\pants_0.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\upBodyC_0.xnb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\ZombieAddict\Desktop\Gry\koniec\Magowie(1)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkInit.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkLoop.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Room-Fountain-raw-v2.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\baseballbat.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\dude.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha(Resampled).xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiAlpha.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\head_0.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\jacket_0.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\pants_0.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\upBodyC_0.xnb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Downloads\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb

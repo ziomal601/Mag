@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\sampleModel.fbx</Source>
+      <Name>Models\sampleModel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Models\sampleModel.xnb</Output>
+      <Time>2011-01-29T19:13:48+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\sampleModel_0.xml</Key>
+        <Value>2014-03-26T21:12:48.0874238+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\sampleModelTextured.fbx</Source>
+      <Name>Models\sampleModelTextured</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Models\sampleModelTextured.xnb</Output>
+      <Time>2011-01-29T20:55:52+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\sampleModelTextured_0.xml</Key>
+        <Value>2014-03-26T21:12:48.2934356+01:00</Value>
+      </Dependency>
+      <Request>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture2_0.xnb</Request>
+      <Request>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\sampleTexture.png</Source>
+      <Name>Textures\sampleTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture.xnb</Output>
+      <Time>2011-01-29T20:52:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\sampleTexture2.png</Source>
+      <Name>Textures\sampleTexture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture2.xnb</Output>
+      <Time>2011-01-29T20:52:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sampleModel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\sampleModel_0.xml</Output>
+      <Time>2011-01-29T19:13:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sampleModelTextured.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\sampleModelTextured_0.xml</Output>
+      <Time>2011-01-29T20:55:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\sampleTexture2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture2_0.xnb</Output>
+      <Time>2011-01-29T20:52:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\sampleTexture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\Textures\sampleTexture_0.xnb</Output>
+      <Time>2011-01-29T20:52:26+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Pobrane\Magowie\Magowie\Magowie\MagowieContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Pobrane\Magowie\Magowie\Magowie\MagowieContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-11T22:35:41.4514625+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
